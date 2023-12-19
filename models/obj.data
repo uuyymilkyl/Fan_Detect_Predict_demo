@@ -1,0 +1,5 @@
+classes= 2
+train = E:/AAA___DataSet/fan/trainval.txt
+valid = E:/AAA___DataSet/fan/test.txt
+names = obj.names
+backup = E:/AAA___DataSet/fan/model/
